@@ -1,0 +1,23 @@
+{
+  "name": "saira-typeface",
+  "version": "1.0.0",
+  "description": "saira typeface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easygui/saira-typeface.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easygui/saira-typeface/issues"
+  },
+  "homepage": "https://github.com/easygui/saira-typeface#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "css": "^2.2.4"
+  }
+}
