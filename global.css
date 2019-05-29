@@ -4,7 +4,8 @@
     font-style: normal;
     font-weight: 100;
     font-display: swap;
-    src: local('Saira Thin'), local('Saira-Thin'), url(https://fonts.gstatic.com/s/saira/v3/mem-Ya2wxmKQyNFEfZ41V4Uf.woff2) format('woff2');
+    src: local('Saira Thin'), local('Saira-Thin'), 
+    url(https://fonts.gstatic.com/s/saira/v3/mem-Ya2wxmKQyNFEfZ41V4Uf.woff2) format('woff2');
     unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
   }
   /* latin-ext */
@@ -23,7 +24,8 @@
     font-style: normal;
     font-weight: 100;
     font-display: swap;
-    src: local('Saira Thin'), local('Saira-Thin'), url(https://fonts.gstatic.com/s/saira/v3/mem-Ya2wxmKQyNFEfZE1Vw.woff2) format('woff2');
+    src: local('Saira Thin'), local('Saira-Thin'), 
+    url(https://fonts.gstatic.com/s/saira/v3/mem-Ya2wxmKQyNFEfZE1Vw.woff2) format('woff2');
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
   }
   /* vietnamese */
