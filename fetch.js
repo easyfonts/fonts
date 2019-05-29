@@ -66,6 +66,11 @@ for (const rule of rules) {
         const src = fontFace.src = processFontSrc(fontFace.src);
         // construct local fileName
         const [{url, format}] = src.get('url');
+        const [{ url: local}] = src.get('local');
+        const actualLocal = local.match(/^local\('?([^()']+)'?\)$/);
+        if (actualLocal && actualLocal.length === 2){
+            fontFace.localName = actualLocal[1].replace(' ','-').toLowerCase();
+        }
         const actualUrl = url.match(/^url\(([^()]+)\)$/);
         if (actualUrl && actualUrl.length === 2){
             fontFace.extUrl = actualUrl[1];
@@ -78,8 +83,9 @@ for (const rule of rules) {
         if (formatCleaned && formatCleaned.length === 2){
             fontFace.fformat = formatCleaned[1];
         }
-        const { fformat, ffamily, comment, ['font-style']: fontstyle } = fontFace;
-        console.log(`${ffamily}-${comment}-${fontstyle}.${fformat}`.toLowerCase()+'->'+fontFace.extUrl);
+        const { localName, fformat, ffamily, comment, ['font-style']: fontstyle } = fontFace;
+        const fileName = `${localName}-${comment}-${fontstyle}.${fformat}`.toLowerCase().replace(' ','-'); 
+        console.log(`curl ${fontFace.extUrl} > ${fileName}`);
         continue;
     }
     console.log(`Unknown type for ${rule.type}`)
