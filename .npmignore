@@ -3,3 +3,4 @@ fetch.js
 *.js
 globals.css
 fonts/curlme.sh
+dl.sh
