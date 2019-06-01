@@ -3,7 +3,7 @@ node_modules/
 npm-debug.log
 dl.sh
 sl-*
-
+.vscode
 
 # OS specific trash
 .DS_Store
