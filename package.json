@@ -1,5 +1,5 @@
 {
-  "name": "saira-typeface",
+  "name": "@easyui/saira-typeface",
   "version": "1.0.0",
   "description": "saira typeface",
   "main": "css/all.css",
