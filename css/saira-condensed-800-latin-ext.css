@@ -1,0 +1,9 @@
+/* latin-ext */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('Saira Condensed ExtraBold'), local('SairaCondensed-ExtraBold'), url(../fonts/saira-condensed-extrabold-latin-ext-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-a2fli0.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}

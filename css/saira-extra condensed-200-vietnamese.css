@@ -1,0 +1,9 @@
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Extra Condensed';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local('Saira ExtraCondensed ExtraLight'), local('SairaExtraCondensed-ExtraLight'), url(../fonts/saira-extracondensed-extralight-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairaextracondensed/v4/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrJ2nh1Aphim8.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}

@@ -1,0 +1,81 @@
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: local('Saira Condensed Thin'), local('SairaCondensed-Thin'), url(../fonts/saira-condensed-thin-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0Iiirw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local('Saira Condensed ExtraLight'), local('SairaCondensed-ExtraLight'), url(../fonts/saira-condensed-extralight-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('Saira Condensed Light'), local('SairaCondensed-Light'), url(../fonts/saira-condensed-light-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Saira Condensed Regular'), local('SairaCondensed-Regular'), url(../fonts/saira-condensed-regular-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJROQgErUN8XuHNEtX81i9TmEkrvretFyIw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Saira Condensed Medium'), local('SairaCondensed-Medium'), url(../fonts/saira-condensed-medium-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local('Saira Condensed SemiBold'), local('SairaCondensed-SemiBold'), url(../fonts/saira-condensed-semibold-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Saira Condensed Bold'), local('SairaCondensed-Bold'), url(../fonts/saira-condensed-bold-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('Saira Condensed ExtraBold'), local('SairaCondensed-ExtraBold'), url(../fonts/saira-condensed-extrabold-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: local('Saira Condensed Black'), local('SairaCondensed-Black'), url(../fonts/saira-condensed-black-vietnamese-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/sairacondensed/v4/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2fli0.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}

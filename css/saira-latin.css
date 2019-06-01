@@ -1,0 +1,81 @@
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: local('Saira Thin'), local('Saira-Thin'), url(../fonts/saira-thin-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem-Ya2wxmKQyNFEfZE1Vw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local('Saira ExtraLight'), local('Saira-ExtraLight'), url(../fonts/saira-extralight-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNHobIYScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('Saira Light'), local('Saira-Light'), url(../fonts/saira-light-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNGMb4YScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Saira Regular'), local('Saira-Regular'), url(../fonts/saira-regular-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/memwYa2wxmKQyNknTZM.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Saira Medium'), local('Saira-Medium'), url(../fonts/saira-medium-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNHUboYScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local('Saira SemiBold'), local('Saira-SemiBold'), url(../fonts/saira-semibold-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNH4aYYScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Saira Bold'), local('Saira-Bold'), url(../fonts/saira-bold-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNGcaIYScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('Saira ExtraBold'), local('Saira-ExtraBold'), url(../fonts/saira-extrabold-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNGAa4YScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+    font-family: 'Saira';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: local('Saira Black'), local('Saira-Black'), url(../fonts/saira-black-latin-normal.woff2) format('woff2'), url(https://fonts.gstatic.com/s/saira/v3/mem9Ya2wxmKQyNGkaoYScrg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
