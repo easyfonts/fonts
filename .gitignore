@@ -1,6 +1,9 @@
 # Node
 node_modules/
 npm-debug.log
+dl.sh
+sl-*
+
 
 # OS specific trash
 .DS_Store
