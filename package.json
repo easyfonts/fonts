@@ -16,8 +16,8 @@
     "url": "https://github.com/easygui/saira-typeface/issues"
   },
   "homepage": "https://github.com/easygui/saira-typeface#readme",
-  "dependencies": {},
   "devDependencies": {
-    "css": "^2.2.4"
+    "css": "^2.2.4",
+    "lerna": "^3.14.1"
   }
 }
