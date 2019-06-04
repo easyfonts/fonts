@@ -1,5 +1,5 @@
 {
-  "name": "league-mono-typeface",
+  "name": "@easyui/league-mono-typeface",
   "version": "1.0.0",
   "description": "\"league mono\" typeface by Tyler Finck",
   "main": "index.css",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
