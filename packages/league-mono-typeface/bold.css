@@ -7,3 +7,13 @@
          url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
          url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
   }
+
+x100    Extra Light or Ultra Light
+x?200    Light or Thin
+x300 (thin)    Book or Demi
+x400    Normal or Regular
+x500    Medium
+x600    Semibold, Demibold
+x700    Bold
+x800    Black, Extra Bold or Heavy
+900    Extra Black, Fat, Poster or Ultra Black
