@@ -3,8 +3,8 @@
 By [Tyler Finck][designer] (last update: November 14, 2017)
 
 - [Synopsis](#synopsis)
-- [FAQ](./ofl-faq.markdown)
-- [License](./ofl.markdown)
+- [FAQ](./ofl-faq.md)
+- [License](./ofl.md)
 # Synopsis
 
 League Mono is a mashup of sorts, inspired by some beautiful forms found in both Fira Mono, Libertinus Mono, and Courier(?!).
