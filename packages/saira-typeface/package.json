@@ -1,6 +1,6 @@
 {
   "name": "@easyui/saira-typeface",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "saira typeface",
   "main": "css/all.css",
   "scripts": {
