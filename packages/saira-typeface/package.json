@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easygui/saira-typeface.git"
+    "url": "git+https://github.com/easygui/fonts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/easygui/saira-typeface/issues"
+    "url": "https://github.com/easygui/fonts/issues"
   },
-  "homepage": "https://github.com/easygui/saira-typeface#readme",
+  "homepage": "https://github.com/easygui/fonts#readme",
   "devDependencies": {
     "css": "^2.2.4"
   }
