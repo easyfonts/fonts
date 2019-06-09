@@ -7,5 +7,5 @@ for (const fileName of allFiles) {
         fs.renameSync(fileName, newFile);
         console.log(fileName, newFile);
     }
-    console.log("<span style=\"font-face: monospace;\">import '@easyfonts/saira-typeface/"+fileName.replace('.css','')+"';</span>");
+    console.log("|<span style=\"font-face: monospace;\">import '@easyfonts/saira-typeface/css/"+fileName.replace('.css','')+"';</span>|   "+fileName+"      |");
     }
