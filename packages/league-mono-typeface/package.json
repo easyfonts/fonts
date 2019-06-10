@@ -1,16 +1,22 @@
 {
   "name": "@easyfonts/league-mono-typeface",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "\"league mono\" typeface by Tyler Finck",
-  "main": "all.css",
+  "main": "./all.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easygui/fonts.git"
+    "url": "git+https://github.com/easyfonts/fonts.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "keywords":[
+    "league mono typeface",
+    "npm font",
+    "league-mono-typeface",
+    "npm distributed font"
+  ]
 }

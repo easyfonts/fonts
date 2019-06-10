@@ -1,18 +1,13 @@
-- [fonts monorepo](#fonts-monorepo)
-  - [Saira typeface](#saira-typeface)
-  - [Laugue Mono Typeface](#laugue-mono-typeface)
+# Install fonts via npm
 
+This is a monorepo of several fonts installable via npm (use with webpack of other browserify bundler)
 
-# fonts monorepo
+# List of installable fonts
 
-This is a collection of fonts for inclusion into your bundling system via npm.
+- [Saira (all vatiants)][saira]
+- [laugue-mono-typeface][league-mono]
+- [leaugue-spartan-typeface][league-spartan]
 
-You can either select to include the full font or limit your selection to 1 or more fonts-files of a singular `font-style` or `font-weight`.
-
-
-## Saira typeface
-
-
-
-## Laugue
---
+[saira]: ./packages/saira-typeface/README.md
+[league-mono]: ./packages/league-mono-typeface/README.md
+[league-spartan: ./packages/league-spartan-typeface/README.md
