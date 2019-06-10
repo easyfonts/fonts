@@ -1,8 +1,13 @@
+- [Synopsis](#synopsis)
+- [Install](#install)
+- [Usage](#usage)
+- [License](#license)
+
 ![League Spartan](./_images/league-spartan-1.jpg)
 
-League Spartan
-=============
-_by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.sursly.com)_
+# Synopsis
+
+by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.sursly.com)_
 
 **A new classic, this is a bold, modern, geometric sans-serif that has no problem kicking its enemies in the chest.** 
 
@@ -15,3 +20,25 @@ _In addition, the incredible [Philip von Borries](http://www.vaubee.com) has cra
 _It's simple and beautiful, and makes some extremely complex, very compelling typographic animations quickly._
 
 _And part of the profits are going right back into supporting The League and making more great stuff, so if you love it, [grab a license today](http://animography.net/products/league-spartan)._
+
+# Install
+
+```bash
+npm install --save @easyfonts/league-spartan
+## or
+yarn add @easyfonts/league-spartan
+```
+
+# Usage
+
+For inclusion into your bundle (configure webpack, browserify, etc, accourdingly)
+
+```javascript
+import '@easyfonts/league-spartan';
+```
+
+# License
+
+- [License][license]
+
+[license]: ./LICENSE.md
