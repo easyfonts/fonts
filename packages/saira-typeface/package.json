@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easygui/fonts.git"
+    "url": "git+https://github.com/easyfonts/fonts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/easygui/fonts/issues"
+    "url": "https://github.com/easyfonts/fonts/issues"
   },
-  "homepage": "https://github.com/easygui/fonts#readme",
+  "homepage": "https://github.com/easyfonts/fonts#readme",
   "devDependencies": {
     "css": "^2.2.4"
   }
