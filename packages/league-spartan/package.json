@@ -1,0 +1,24 @@
+{
+    "name": "@easyfonts/league-spartan",
+    "version": "1.0.1",
+    "description": "league-spartan typeface",
+    "scripts": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/easyfonts/fonts.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/easyfonts/fonts/issues"
+    },
+    "homepage": "https://github.com/easyfonts/fonts#readme",
+    "devDependencies": {},
+    "keywords":[
+        "league spartan",
+        "npm install fonts",
+        "npm fonts",
+        "easyfonts"
+    ]
+  }
+  

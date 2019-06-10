@@ -1,4 +1,4 @@
-![League Spartan](https://d22lct1myh0s5f.cloudfront.net/images/league-spartan-1.jpg)
+![League Spartan](./_images/league-spartan-1.jpg)
 
 League Spartan
 =============
