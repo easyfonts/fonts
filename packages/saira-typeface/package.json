@@ -1,6 +1,6 @@
 {
   "name": "@easyfonts/saira-typeface",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "saira typeface",
   "main": "css/all.css",
   "scripts": {
@@ -18,5 +18,12 @@
   "homepage": "https://github.com/easyfonts/fonts#readme",
   "devDependencies": {
     "css": "^2.2.4"
-  }
+  },
+  "keywords": [
+    "saira",
+    "saira typeface",
+    "saira install npm",
+    "saira webpack"
+  ]
+
 }
