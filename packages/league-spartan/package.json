@@ -1,6 +1,7 @@
 {
     "name": "@easyfonts/league-spartan",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "main":"./index.css",
     "description": "league-spartan typeface",
     "scripts": {},
     "repository": {

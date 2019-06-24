@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Junction';
+    src: url('./junction-regular.eot');
+    src: url('./junction-regular.eot?#iefix') format('embedded-opentype'),
+         url('./junction-regular.woff') format('woff'),
+         url('./junction-regular.ttf') format('truetype'),
+         url('./junction-regular.svg#junctionregular') format('svg'),
+         url('./junction-regular.otf') format('opentype'); /* open type */
+    font-weight: 400;
+    font-style: normal;
+
+}

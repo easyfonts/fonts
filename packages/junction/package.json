@@ -1,0 +1,23 @@
+{
+  "name": "@easyfonts/junction-typeface",
+  "version": "1.0.3",
+  "description": "\"league junction\" typeface by Caroline Hadilaksono & Tyler Finck",
+  "main": "./all.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easyfonts/fonts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "keywords":[
+    "league junction typeface",
+    "npm font",
+    "league-junction-typeface",
+    "npm distributed font",
+    "junction"
+  ]
+}
