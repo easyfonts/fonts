@@ -21,9 +21,9 @@ Junction is a a humanist sans-serif, and the first open-source type project star
 Install the fontface via npm. 
 
 ```bash
-npm install --save @easyfonts/junction-typeface
+npm install --save @easyfonts/league-junction-typeface
 ## OR
-yarn add @easyfonts/junction-typeface
+yarn add @easyfonts/league-junction-typeface
 ```
 
 # Usage
