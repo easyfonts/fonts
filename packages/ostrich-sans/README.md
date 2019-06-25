@@ -32,9 +32,9 @@ Include the font in your build with
 import '@easyfonts/ostrich-sans'; // import all fonts files of the "Ostric Sans typeface"
 ```
 
-This will install all fontfiles and (1.8Mb).
+This will include all fontfiles (1.8Mb) in your bundle.
 
-If you are not using all font weights you can select a subset of fontfiles to be included into your build based on the `font-weight`
+If you are not using all font weights/types you can select a subset of fontfiles to be included into your build.
 
 
 | import statement                                   | `font-weight` | special                         | `font-family`          | `font-style` |
