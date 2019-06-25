@@ -37,21 +37,6 @@ This will install all fontfiles and (1.8Mb).
 If you are not using all font weights you can select a subset of fontfiles to be included into your build based on the `font-weight`
 
 
-- Dashed (thin)  x
-- Rounded (medium)  x
-- Ultra light
-- Normal (regular) x
-- Bold (race track style double lines)
-- Black
-- Inline (with italics)
-- Heavy (round)
-@font-face {
-    font-family: 'Ostrich Sans Inline';
-    src: url('./ostrich-sans-inline-italic.eot');
-    src: local('☺'), url('./ostrich-sans-inline-italic.woff') format('woff'), url('./ostrich-sans-inline-italic.ttf') format('truetype'), url('./ostrich-sans-inline-italic.svg') format('svg'), url('./ostrich-sans-inline-italic.eot') format('opentype');
-    font-weight: normal;
-    font-style: italic;
-}
 | import statement                                   | `font-weight` | special                         | `font-family`          | `font-style` |
 |----------------------------------------------------|---------------|---------------------------------|------------------------|--------------|
 | `import '@easyfonts/ostrich-sans/black';`          | 900           |                                 | `Ostrich Sans`         |              |
