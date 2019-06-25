@@ -14,5 +14,5 @@ This is a monorepo of several fonts installable via npm (use with webpack of oth
 [saira]: ./packages/saira-typeface/README.md
 [league-mono]: ./packages/league-mono-typeface/README.md
 [league-spartan]: ./packages/league-spartan/README.md
-[league-junction]: ./packages/league-junction/README.md
+[league-junction]: ./packages/league-junction-typeface/README.md
 [league-ostrich-sans]: ./packages/ostrich-sans/README.md
