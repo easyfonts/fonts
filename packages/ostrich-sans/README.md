@@ -29,7 +29,7 @@ Include the font in your build with
 
 ```javascript
 
-import '@easyfonts/ostrich-sans';
+import '@easyfonts/ostrich-sans'; // import all fonts files of the "Ostric Sans typeface"
 ```
 
 This will install all fontfiles and (1.8Mb).
