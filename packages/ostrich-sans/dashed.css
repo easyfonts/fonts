@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Ostrich Sans Dashed';
+    src: url('./dashed/ostrich-sans-dashed.eot');
+    src: local('☺'), url('./dashed/ostrich-sans-dashed.woff') format('woff'), url('./dashed/ostrich-sans-dashed.ttf') format('truetype'), url('./dashed/ostrich-sans-dashed.svg') format('svg'), url('./dashed/ostrich-sans-dashed.eot') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}

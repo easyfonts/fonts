@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Ostrich Sans Medium';
+    src: url('./medium/ostrich-sans-medium.eot');
+    src: local('☺'), url('./medium/ostrich-sans-medium.woff') format('woff');
+    src: url('./medium/ostrich-sans-medium.ttf') format('truetype');
+    src: url('./medium/ostrich-sans-medium.svg') format('svg');
+    src: url('./medium/ostrich-sans-medium.eot') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}

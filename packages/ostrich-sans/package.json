@@ -1,0 +1,23 @@
+{
+    "name": "@easyfonts/ostrich-sans",
+    "version": "1.0.0",
+    "description": "\"ostrich sans\" typeface by Tyler Finck",
+    "main": "./all.css",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/easyfonts/fonts.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "keywords": [
+        "league ostrich sans typeface",
+        "npm font",
+        "ostrich-sans-typeface",
+        "npm distributed font",
+        "ostrich sans"
+    ]
+}

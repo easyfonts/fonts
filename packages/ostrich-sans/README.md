@@ -1,0 +1,94 @@
+- [Synopsis](#synopsis)
+- [Install](#install)
+- [Usage](#usage)
+- [Example](#example)
+
+# Synopsis
+
+By [Tyler Finck][designer]
+A gorgeous modern sans-serif with a very long neck. With a whole slew of styles & weights.
+
+![Ostrich Sans 1][pangram1]
+![Ostrich Sans 1][pangram2]
+![Ostrich Sans 1][pangram3]
+![Ostrich Sans 1][pangram4]
+
+# Install
+
+Install the fontface via npm. 
+
+```bash
+npm install --save @easyfonts/ostrich-sans
+## OR
+yarn add @easyfonts/ostrich-sans
+```
+
+# Usage
+
+Include the font in your build with 
+
+```javascript
+
+import '@easyfonts/ostrich-sans';
+```
+
+This will install all fontfiles and (1.8Mb).
+
+If you are not using all font weights you can select a subset of fontfiles to be included into your build based on the `font-weight`
+
+
+- Dashed (thin)  x
+- Rounded (medium)  x
+- Ultra light
+- Normal (regular) x
+- Bold (race track style double lines)
+- Black
+- Inline (with italics)
+- Heavy (round)
+@font-face {
+    font-family: 'Ostrich Sans Inline';
+    src: url('./ostrich-sans-inline-italic.eot');
+    src: local('☺'), url('./ostrich-sans-inline-italic.woff') format('woff'), url('./ostrich-sans-inline-italic.ttf') format('truetype'), url('./ostrich-sans-inline-italic.svg') format('svg'), url('./ostrich-sans-inline-italic.eot') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+| import statement                                   | `font-weight` | special                         | `font-family`          | `font-style` |
+|----------------------------------------------------|---------------|---------------------------------|------------------------|--------------|
+| `import '@easyfonts/ostrich-sans/black';`          | 900           |                                 | `Ostrich Sans`         |              |
+| `import '@easyfonts/ostrich-sans/bold';`           | 700           | (race track style double lines) | `Ostrich Sans`         |              |
+| `import '@easyfonts/ostrich-sans/dashed';`         | 500           |                                 | `Ostrich Sans Dashed`  |              |
+| `import '@easyfonts/ostrich-sans/heavy';`          | 700           |                                 | `Ostrich Sans Heavy`   |              |
+| `import '@easyfonts/ostrich-sans/inline-italic';`  | normal        | (race track style double lines) | `Ostrich Sans Inline`  | `italic`     |
+| `import '@easyfonts/ostrich-sans/inline-regular';` | normal        | (race track style double lines) | `Ostrich Sans Inline`  |              |
+| `import '@easyfonts/ostrich-sans/light';`          | 300           |                                 | `Ostrich Sans `        |              |
+| `import '@easyfonts/ostrich-sans/medium';`         | 500           |                                 | `Ostrich Sans Medium`  |              |
+| `import '@easyfonts/ostrich-sans/regular';`        | 400           |                                 | `Ostrich Sans`         |              |
+| `import '@easyfonts/ostrich-sans/rounded';`        | 500           |                                 | `Ostrich Sans Rounded` |              |
+
+
+
+
+
+
+# Example
+
+Include only extra-bold in your bundle
+
+```javascript
+import '@easyfonts/leaugue-junction-typeface/bold';
+```
+
+Include regular and bold in your bundle;
+
+```javascript
+import '@easyfonts/leaugue-junction-typeface/regular';
+import '@easyfonts/leaugue-junction-typeface/bold';
+```
+
+[designer]: http://www.tylerfinck.com
+[pangram1]: ./images/ostrich-sans-1.jpeg
+[pangram2]: ./images/ostrich-sans-2.jpeg
+[pangram3]: ./images/ostrich-sans-3.jpeg
+[pangram4]: ./images/ostrich-sans-4.jpeg
+
+

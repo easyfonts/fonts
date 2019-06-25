@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Ostrich Sans';
+    src: url('./light/ostrich-sans-light.eot');
+    src: local('☺'), url('./light/ostrich-sans-light.woff') format('woff'), url('./light/ostrich-sans-light.ttf') format('truetype'), url('./light/ostrich-sans-light.svg') format('svg'), url('./light/ostrich-sans-light.eot') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}

@@ -1,0 +1,10 @@
+/* Ostrich Sans Rounded */
+
+@font-face {
+    font-family: 'Ostrich Sans Rounded';
+    src: url('./rounded/ostrich-sans-rounded.eot');
+    src: local('☺'), url('./rounded/ostrich-sans-rounded.woff') format('woff'), url('./rounded/ostrich-sans-rounded.ttf') format('truetype'), url('./rounded/ostrich-sans-rounded.svg') format('svg'), url('./rounded/ostrich-sans-rounded.eot') format('opentype');
+    ;
+    font-weight: 500;
+    font-style: normal;
+}

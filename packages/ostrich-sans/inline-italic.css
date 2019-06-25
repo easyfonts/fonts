@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Ostrich Sans Inline';
+    src: url('./inline-italic/ostrich-sans-inline-italic.eot');
+    src: local('☺'), url('./inline-italic/ostrich-sans-inline-italic.woff') format('woff'), url('./inline-italic/ostrich-sans-inline-italic.ttf') format('truetype'), url('./inline-italic/ostrich-sans-inline-italic.svg') format('svg'), url('./inline-italic/ostrich-sans-inline-italic.eot') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
