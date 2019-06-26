@@ -60,14 +60,14 @@ If you are not using all font weights/types you can select a subset of fontfiles
 Include only extra-bold in your bundle
 
 ```javascript
-import '@easyfonts/leaugue-junction-typeface/bold';
+import '@easyfonts/ostrich-sans/bold';
 ```
 
 Include regular and bold in your bundle;
 
 ```javascript
-import '@easyfonts/leaugue-junction-typeface/regular';
-import '@easyfonts/leaugue-junction-typeface/bold';
+import '@easyfonts/ostrich-sans/regular';
+import '@easyfonts/ostrich-sans/bold';
 ```
 
 [designer]: http://www.tylerfinck.com
