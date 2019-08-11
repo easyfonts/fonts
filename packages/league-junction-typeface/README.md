@@ -35,6 +35,15 @@ Include the font in your build with
 import '@easyfonts/leaugue-junction-typeface';
 ```
 
+Specify the `font-family` name:
+
+```css
+  .someclass {
+     font-family: Junction;
+  }
+```  
+
+
 This will install all fontfiles and (1.1Mb).
 
 If you are not using all font weights you can select a subset of fontfiles to be included into your build based on the `font-weight`
