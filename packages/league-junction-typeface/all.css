@@ -11,9 +11,9 @@
 900    Extra Black, Fat, Poster or Ultra Black
 */
 
-@import "./bold";
-@import "./light";
-@import "./regular";
+@import "./bold.css";
+@import "./light.css";
+@import "./regular.css";
 
 
 
