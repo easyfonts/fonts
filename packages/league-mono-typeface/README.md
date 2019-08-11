@@ -32,8 +32,16 @@ Include the font in your build with
 
 ```javascript
 
-import '@easyfonts/leaugue-mono-typeface';
+import '@easyfonts/league-mono-typeface';
 ```
+
+Reference in your css
+
+```css
+  .someclass {
+     font-family: 'League Mono';
+  }
+```  
 
 This will install all fontfiles and (1.1Mb).
 
@@ -42,28 +50,28 @@ If you are not using all font weights you can select a subset of fontfiles to be
 
 | import statement                                        | `font-weight` |
 | ------------------------------------------------------- | ------------- |
-| `import '@easyfonts/leaugue-mono-typeface/ultralight';` | 100           |
-| `import '@easyfonts/leaugue-mono-typeface/light';`      | 200           |
-| `import '@easyfonts/leaugue-mono-typeface/thin';`       | 300           |
-| `import '@easyfonts/leaugue-mono-typeface/regular';`    | 400           |
-| `import '@easyfonts/leaugue-mono-typeface/medium';`     | 500           |
-| `import '@easyfonts/leaugue-mono-typeface/semibold';`   | 600           |
-| `import '@easyfonts/leaugue-mono-typeface/bold';`       | 700           |
-| `import '@easyfonts/leaugue-mono-typeface/extra-bold';` | 800           |
+| `import '@easyfonts/leaugue-mono-typeface/ultralight.css';` | 100           |
+| `import '@easyfonts/leaugue-mono-typeface/light.css';`      | 200           |
+| `import '@easyfonts/leaugue-mono-typeface/thin.css';`       | 300           |
+| `import '@easyfonts/leaugue-mono-typeface/regular.css';`    | 400           |
+| `import '@easyfonts/leaugue-mono-typeface/medium.css';`     | 500           |
+| `import '@easyfonts/leaugue-mono-typeface/semibold.css';`   | 600           |
+| `import '@easyfonts/leaugue-mono-typeface/bold.css';`       | 700           |
+| `import '@easyfonts/leaugue-mono-typeface/extra-bold.css';` | 800           |
 
 # Example
 
 Include only extra-bold in your bundle
 
 ```javascript
-import '@easyfonts/leaugue-mono-typeface/extra-bold';
+import '@easyfonts/leaugue-mono-typeface/extra-bold.css';
 ```
 
 Include regular and semibild in your bundle;
 
 ```javascript
-import '@easyfonts/leaugue-mono-typeface/regular';
-import '@easyfonts/leaugue-mono-typeface/semibold';
+import '@easyfonts/leaugue-mono-typeface/regular.css';
+import '@easyfonts/leaugue-mono-typeface/semibold.css';
 ```
 
 [sample]: ./leaguemono-sample.png
