@@ -1,6 +1,6 @@
 {
   "name": "@easyfonts/league-mono-typeface",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "\"league mono\" typeface by Tyler Finck",
   "main": "./all.css",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {},
-  "keywords":[
+  "keywords": [
     "league mono typeface",
     "npm font",
     "league-mono-typeface",
