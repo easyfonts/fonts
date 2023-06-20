@@ -1,11 +1,8 @@
 {
-  "name": "@easyfonts/fonts",
-  "private": true,
-  "version": "1.0.3",
-  "description": "saira typeface",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "@easyfonts/font-awesome-v6",
+  "version": "1.0.0",
+  "description": "font-awesome v6",
+  "main": "./all.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/easyfonts/fonts.git"
@@ -16,7 +13,8 @@
     "url": "https://github.com/easyfonts/fonts/issues"
   },
   "homepage": "https://github.com/easyfonts/fonts#readme",
-  "devDependencies": {
-    "css": "2.2.4"
-  }
+  "keywords": [
+    "font-awesome version 6",
+    "npm distributed font"
+  ]
 }
