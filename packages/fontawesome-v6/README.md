@@ -69,9 +69,9 @@ Include only extra-bold in your bundle
 ![Font Awesome v6 part 3][sample3]
 ![Font Awesome v6 part 4][sample4]
 
-[sample1]: ./fa-sc-1.png
-[sample2]: ./fa-sc-2.png
-[sample3]: ./fa-sc-3.png
-[sample4]: ./fa-sc-4.png
+[sample1]: ./images/fa-sc-1.png
+[sample2]: ./images/fa-sc-2.png
+[sample3]: ./images/fa-sc-3.png
+[sample4]: ./images/fa-sc-4.png
 [license]: https://fontawesome.com/license/free
 [company]: https://fontawesome.com/versions
