@@ -1,82 +1,77 @@
+# Font awesome free version V6
+
 - [Synopsis](#synopsis)
 - [Install](#install)
 - [Usage](#usage)
 - [Example](#example)
 
-# Synopsis
+## Synopsis
 
-![League Mono][sample]
+By [©Fonticons, Inc.][company]
 
-By [Tyler Finck][designer] (last update: November 14, 2017)
+Font Awesome Free is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want.
 
-League Mono is a mashup of sorts, inspired by some beautiful forms found in both Fira Mono, Libertinus Mono, and Courier(?!).
+## Install
 
-League Mono was created for The League of Moveable Type using Glyphs app, with masters for the Thin, Regular, and Bold weights, and interpolated instances for the UltraLight, Light, Medium, SemiBold, and ExtraBold weights. This, unfortunately, is not supported by UFO files, which is why there is a Glyphs source and source files for each weight.
-
-![League Mono Family Pangram][pangram]
-![League Mono Details][details]
-
-# Install
-
-Install the fontface via npm. 
+Install the fontface via npm.
 
 ```bash
-npm install --save @easyfonts/league-mono-typeface
+npm install --save @easyfonts/font-awesome-free
 ## OR
-yarn add @easyfonts/league-mono-typeface
+yarn add @easyfonts/font-awesome-free
 ```
 
-# Usage
+## Usage
 
-Include the font in your build with 
+Include the font in your build with (tailwind css will look in node_modules as well)
 
-```javascript
-
-import '@easyfonts/league-mono-typeface';
+```css
+@import "@easyfonts/fontawesome-free";
 ```
 
 Reference in your css
 
 ```css
-  .someclass {
-     font-family: 'League Mono';
-  }
-```  
+.someclass {
+  font-family: "Font Awesome 6 Free";
+}
+```
 
-This will install all fontfiles and (1.1Mb).
+With above css, the tag below will now show the glyph in 700 weight
 
-If you are not using all font weights you can select a subset of fontfiles to be included into your build based on the `font-weight`
+```html
+<i class="fa fa-calendar-alt" />
+```
 
+This will install all fontfiles in node modules (4.4Mb).
 
-| import statement                                        | `font-weight` |
-| ------------------------------------------------------- | ------------- |
-| `import '@easyfonts/leaugue-mono-typeface/ultralight.css';` | 100           |
-| `import '@easyfonts/leaugue-mono-typeface/light.css';`      | 200           |
-| `import '@easyfonts/leaugue-mono-typeface/thin.css';`       | 300           |
-| `import '@easyfonts/leaugue-mono-typeface/regular.css';`    | 400           |
-| `import '@easyfonts/leaugue-mono-typeface/medium.css';`     | 500           |
-| `import '@easyfonts/leaugue-mono-typeface/semibold.css';`   | 600           |
-| `import '@easyfonts/leaugue-mono-typeface/bold.css';`       | 700           |
-| `import '@easyfonts/leaugue-mono-typeface/extra-bold.css';` | 800           |
+If you are not using all font weights you can select a subset of fontfiles to be included into your build.
+You build will be consequently smaller
 
-# Example
+| import statement                                    | prefix-class | description                          |
+| --------------------------------------------------- | ------------ | ------------------------------------ |
+| `import '@easyfonts/fontawesome-free/brands.css';`  | `fabs`       | glyphs of well known brands          |
+| `import '@easyfonts/fontawesome-free/regular.css';` | `fa`         | regular glyphs                       |
+| `import '@easyfonts/fontawesome-free/solid.css';`   | `fas`        | filled up glyphs and thicker strokes |
+
+## Example
 
 Include only extra-bold in your bundle
 
-```javascript
-import '@easyfonts/leaugue-mono-typeface/extra-bold.css';
+```css
+@import "@easyfonts/fontawesome-free/solid.css";
 ```
 
-Include regular and semibild in your bundle;
+## Glyph CheatSheet.
 
-```javascript
-import '@easyfonts/leaugue-mono-typeface/regular.css';
-import '@easyfonts/leaugue-mono-typeface/semibold.css';
-```
+![Font Awesome v6 part 1][sample1]
+![Font Awesome v6 part 2][sample2]
+![Font Awesome v6 part 3][sample3]
+![Font Awesome v6 part 4][sample4]
 
-[sample]: ./leaguemono-sample.png
-[designer]: http://www.tylerfinck.com
-[pangram]: ./leaguemono-family-pangram.png
-[details]: ./leaguemono-details.png
-
-
+[sample1]: ./fa-sc-1.png
+[sample2]: ./fa-sc-2.png
+[sample3]: ./fa-sc-3.png
+[sample4]: ./fa-sc-4.png
+[license]: https://fontawesome.com/license/free
+[company]: https://fontawesome.com/versions
