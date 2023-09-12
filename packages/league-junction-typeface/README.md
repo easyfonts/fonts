@@ -57,17 +57,34 @@ If you are not using all font weights you can select a subset of fontfiles to be
 
 # Example
 
-Include only extra-bold in your bundle
+Include only extra-bold for your bundle
+
+javascript:
 
 ```javascript
 import '@easyfonts/leaugue-junction-typeface/bold';
 ```
 
+css:
+
+```css
+@import '@easyfonts/leaugue-junction-typeface/bold';
+``````
+
 Include regular and bold in your bundle;
+
+javascript:
 
 ```javascript
 import '@easyfonts/leaugue-junction-typeface/regular';
 import '@easyfonts/leaugue-junction-typeface/bold';
+```
+
+css: 
+
+```css
+@import '@easyfonts/leaugue-junction-typeface/regular';
+@import '@easyfonts/leaugue-junction-typeface/bold';
 ```
 
 [designer]: http://www.tylerfinck.com

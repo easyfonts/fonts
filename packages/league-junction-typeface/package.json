@@ -1,11 +1,16 @@
 {
   "name": "@easyfonts/league-junction-typeface",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"league junction\" typeface by Caroline Hadilaksono & Tyler Finck",
-  "main": "./all.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/easyfonts/fonts.git"
+  },
+  "exports":{
+    "default": "./all.css",
+    "bold": "./bold.css",
+    "light": "./light.css",
+    "regular": "./regular.css"
   },
   "author": "",
   "license": "ISC",

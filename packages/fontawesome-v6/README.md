@@ -58,9 +58,18 @@ You build will be consequently smaller
 
 Include only extra-bold in your bundle
 
+css:
+
 ```css
 @import "@easyfonts/fontawesome-free/solid.css";
 ```
+
+javascript: (webpack, vite)
+
+```javascript
+import "@easyfonts/fontawesome-free/solid.css";
+```
+
 
 ## Glyph CheatSheet.
 
