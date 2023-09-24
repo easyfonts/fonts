@@ -6,16 +6,17 @@
     "type": "git",
     "url": "git+https://github.com/easyfonts/fonts.git"
   },
+  "type": "module",
+  "exports": {
+    "default": "./all.css",
+    "brands": "./brands.css",
+    "regular": "./brands.css",
+    "solid": "./solid.css"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/easyfonts/fonts/issues"
-  },
-  "exports":{
-     "default": "./all.css",
-     "brands": "./brands.css",
-     "regular": "./regular.css",
-     "solid": "./solid.css"
   },
   "homepage": "https://github.com/easyfonts/fonts#readme",
   "keywords": [
