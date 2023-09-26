@@ -1,6 +1,6 @@
 {
   "name": "@easyfonts/font-awesome-v6",
-  "version": "6.0.3",
+  "version": "6.0.5",
   "description": "font-awesome v6",
   "repository": {
     "type": "git",
@@ -10,8 +10,9 @@
   "exports": {
     "default": "./all.css",
     "brands": "./brands.css",
-    "regular": "./brands.css",
-    "solid": "./solid.css"
+    "regular": "./regular.css",
+    "solid": "./solid.css",
+    "defs": "./fontawesome.css"
   },
   "author": "",
   "license": "ISC",
